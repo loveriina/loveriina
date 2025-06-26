@@ -9,3 +9,9 @@ My name is Zarina, but you can call me Zari. I am a Computer Science student in 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can write backwards.
 
+Languages and Tools:
+Web Development: HTML, CSS, Javascript
+Frameworks: Bootstrap, React.js
+Backend: Nodejs, Expressjs
+Database: MongoDB
+Tools: Git, Visual Studio Code
