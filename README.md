@@ -11,9 +11,9 @@
 </p>
 
 ## 🌷🍃 About Me
- <img src="images/totoro-bg.gif" alt="Totoro" width="380" align="right">
+
 &nbsp;&nbsp;&nbsp;🎓 BS Mathematics graduate with a specialization in Computer Science <br /> 
-&nbsp;&nbsp;&nbsp;💡 Enjoys building creative and practical solutions to real-world problems <br /> 
+&nbsp;&nbsp;&nbsp;💡 Enjoys building creative and practical solutions to real-world problems <br />  <img src="images/totoro-bg.gif" alt="Totoro" width="360" align="right">
 &nbsp;&nbsp;&nbsp;🌐 Specializes in web design and development <br />
 &nbsp;&nbsp;&nbsp;🎨 Passionate about UI/UX design <br /> 
 &nbsp;&nbsp;&nbsp;📱 Interested in app development <br /> <br /> 
