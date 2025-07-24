@@ -1,23 +1,55 @@
-## Hi there 👋
-
-My name is Zarina, but you can call me Zari. I am a Computer Science student in the Philippines.
+<img src="images/header-shine.gif" style="width: 100%;">
 
 
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning web develpment.
-- 📫 How to reach me: dungo.zr@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can write backwards.
 
-Languages and Tools:
+<h2> Hey, it's me, Zari!</h2>
+
+I am currently working on my personal website. 
+## About Me
+
+<table>
+  <tr>
+    <td valign="top" style="width:50%;">
+🎓 BS Mathematics graduate with a specialization in Computer Science </br>
+💡 Enjoys building creative and practical solutions to real-world problems </br>
+🌐 Passionate about web development </br>
+Intereseted in app development </br>
+🎨 Loves UI/UX design </br>
+<img src="images/plants.gif" style="width: 100%;">
+    </td>
+    <td valign="top">
+      <img src="images/girl-side-bangs-crop.jpg" style="width:100%;">
+    </td>
+  </tr>
+  </table>
 
 
-Web Development: HTML, CSS, Javascript
+  <table>
+  <tr>
+  <td valign="top">
 
-Frameworks: Bootstrap, React.js
+  ## Project Preview
+  <img src="images/flower.gif" width="500" alt="Flower GIF">
+  </td>
+  <td valign="top">
 
-Backend: Nodejs, Expressjs
+ ## Skills
+  </td>
+  </tr>
+  </table>
 
-Database: MongoDB
+<table>
+<tr>
+<td valign="top">
+<img src="images/totoro.gif" width=400>
+</td>
+<td valign="top">
 
-Tools: Git, Visual Studio Code
+
+</td>
+</tr>
+</table>
+
+<!-- <img src="images/butterfly.gif"> -->
+
+
