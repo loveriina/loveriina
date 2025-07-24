@@ -1,55 +1,40 @@
-<img src="images/header-shine.gif" style="width: 100%;">
 
+
+<p align="center">
+  <img src="images/header-shine.gif" alt="Profile Cover" width="1000" />
+</p>
 
 
 <h2> Hey, it's me, Zari!</h2>
-
-I am currently working on my personal website. 
+ 
 ## About Me
 
 <table>
   <tr>
-    <td valign="top" style="width:50%;">
+    <td valign="top" style="width:70%;">
 🎓 BS Mathematics graduate with a specialization in Computer Science </br>
 💡 Enjoys building creative and practical solutions to real-world problems </br>
-🌐 Passionate about web development </br>
-Intereseted in app development </br>
-🎨 Loves UI/UX design </br>
+🌐 Specializes in web development </br>
+🎨 Passionate about UI/UX design </br>
+📱 Interested in app development </br>
 <img src="images/plants.gif" style="width: 100%;">
     </td>
     <td valign="top">
-      <img src="images/girl-side-bangs-crop.jpg" style="width:100%;">
+      <img src="images/girl-side-bangs-crop.jpg" align="right" width="400">
     </td>
   </tr>
   </table>
 
-
-  <table>
-  <tr>
-  <td valign="top">
-
-  ## Project Preview
-  <img src="images/flower.gif" width="500" alt="Flower GIF">
-  </td>
-  <td valign="top">
-
- ## Skills
-  </td>
-  </tr>
-  </table>
-
+## Skills
 <table>
-<tr>
-<td valign="top">
-<img src="images/totoro.gif" width=400>
-</td>
-<td valign="top">
-
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+      </p>
+    </td>
+    <td>try2</td>
+  </tr>
 </table>
-
-<!-- <img src="images/butterfly.gif"> -->
 
 
