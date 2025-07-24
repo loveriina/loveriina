@@ -10,16 +10,15 @@
   />
 </p>
 
-## 🌷🍃 About Me
+## 🌷🍃 About Me <img src="images/totoro-bg.gif" alt="Totoro" width="360" align="right">
+🎓 BS Mathematics graduate with a specialization in Computer Science <br /> 
+💡 Enjoys building creative and practical solutions to real-world problems <br />  
+🌐 Specializes in web design and development <br />
+🎨 Passionate about UI/UX design <br /> 
+📱 Interested in app development <br /> <br /> 
 
-&nbsp;&nbsp;&nbsp;🎓 BS Mathematics graduate with a specialization in Computer Science <br /> 
-&nbsp;&nbsp;&nbsp;💡 Enjoys building creative and practical solutions to real-world problems <br />  <img src="images/totoro-bg.gif" alt="Totoro" width="360" align="right">
-&nbsp;&nbsp;&nbsp;🌐 Specializes in web design and development <br />
-&nbsp;&nbsp;&nbsp;🎨 Passionate about UI/UX design <br /> 
-&nbsp;&nbsp;&nbsp;📱 Interested in app development <br /> <br /> 
-
-&nbsp;&nbsp;&nbsp;🔗 My personal site is under construction <br />
-&nbsp;&nbsp;&nbsp;📫 Contact me at <a href="mailto:dungo.zr@gmail.com">dungo.zr@gmail.com</a>
+🔗 My personal site is under construction <br />
+📫 Contact me at <a href="mailto:dungo.zr@gmail.com">dungo.zr@gmail.com</a>
 
   
 ## 🌼☁️ Skills & Tools <img src="images/butterfly.gif" alt="Totoro" width="300" align="right">
