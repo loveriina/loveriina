@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="images/header-shine-crop.gif" alt="Profile Cover" width="1000" />
+  <img src="images/header-commit.gif" alt="Profile Cover" width="1000" />
 </p>
 
 <p align="center">
@@ -10,7 +9,8 @@
   />
 </p>
 
-## 🌷🍃 About Me 
+## 🌷🍃 About Me
+
 <img src="images/totoro-bg.gif" alt="Totoro" width="360" align="right">
 🎓 BS Mathematics graduate with a specialization in Computer Science <br /> 
 💡 Enjoys building creative and practical solutions to real-world problems <br />  
@@ -20,7 +20,6 @@
 🔗 My personal site is under construction <br />
 📫 Contact me at <a href="mailto:dungo.zr@gmail.com">dungo.zr@gmail.com</a>
 
-  
 ## 🌼☁️ Skills & Tools <img src="images/butterfly.gif" alt="Totoro" width="300" align="right">
 
   <p>
@@ -49,5 +48,3 @@
 <p align="center">
   <img src="images/thesis.gif" alt="Thesis" width="1000">
 </p>
-
-
